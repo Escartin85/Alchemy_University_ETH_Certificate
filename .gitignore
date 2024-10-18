@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+# Logs
+Chapter01/Week_1_Project/client/logs
+Chapter01/Week_1_Project/client/*.log
+Chapter01/Week_1_Project/client/npm-debug.log*
+Chapter01/Week_1_Project/client/yarn-debug.log*
+Chapter01/Week_1_Project/client/yarn-error.log*
+Chapter01/Week_1_Project/client/pnpm-debug.log*
+Chapter01/Week_1_Project/client/lerna-debug.log*
+
+Chapter01/Week_1_Project/client/node_modules
+Chapter01/Week_1_Project/client/dist
+Chapter01/Week_1_Project/client/dist-ssr
+Chapter01/Week_1_Project/client/*.local
+
+# Editor directories and files
+Chapter01/Week_1_Project/client/.vscode/*
+Chapter01/Week_1_Project/client/!.vscode/extensions.json
+Chapter01/Week_1_Project/client/.idea
+Chapter01/Week_1_Project/client/.DS_Store
+Chapter01/Week_1_Project/client/*.suo
+Chapter01/Week_1_Project/client/*.ntvs*
+Chapter01/Week_1_Project/client/*.njsproj
+Chapter01/Week_1_Project/client/*.sln
+Chapter01/Week_1_Project/client/*.sw?
+
+Chapter01/Week_1_Project/server/node_modules
